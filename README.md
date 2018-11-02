@@ -11,7 +11,7 @@ Class is a user-defined datatype which can hold similar functions and members an
 7) Use scope resolution (::) operator to define a member function outside the class definition
 8) Use dot(.) operator together with object's name to access a member function
 9) No need for format specifiers in print statements in C++ unlike C
-10)Use string datatype if you expect whitespace in your character array
+10) Use string datatype if you expect whitespace in your character array
 
 Compiling instructions: 
 1) Download the .cpp file into a directory
@@ -21,5 +21,5 @@ Compiling instructions:
 5) Type the .exe filename created and hit enter to see output
 
 
-References: https://www.geeksforgeeks.org/c-classes-and-objects/, http://www.cplusplus.com/doc/tutorial/classes/, https://www.tutorialspoint.com/cplusplus/cpp_classes_objects.htm
+References: https://www.geeksforgeeks.org/c-classes-and-objects/, http://www.cplusplus.com/doc/tutorial/classes/, https://www.tutorialspoint.com/cplusplus/cpp_classes_objects.htm, https://www.youtube.com/watch?v=ABRP_5RYhqU
 
